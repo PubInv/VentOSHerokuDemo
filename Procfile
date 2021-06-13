@@ -1,1 +1,0 @@
-web: cd VentMon/PIRDS-docker-local; docker run -d --rm --name herokudemologger -p 80:80 -p 6111:6111/udp -v `pwd`/logger_src/data:/data pirds-logger
