@@ -1,0 +1,6 @@
+[submodule "VentMon/vent-display"]
+	path = VentMon/vent-display
+	url = https://github.com/PubInv/vent-display.git
+[submodule "VentMon/PIRDS-docker-local"]
+	path = VentMon/PIRDS-docker-local
+	url = https://github.com/PubInv/PIRDS-docker-local.git
