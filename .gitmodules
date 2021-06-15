@@ -1,3 +1,0 @@
-[submodule "PIRDS-docker-local"]
-	path = PIRDS-docker-local
-	url = https://github.com/PubInv/PIRDS-docker-local.git
